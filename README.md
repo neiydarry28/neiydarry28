@@ -41,8 +41,3 @@
 <a href="https://www.linkedin.com/in/neiybriceno/">Image by Neiy Darry</a>
   </div>
   </div>
-
-------
-Credit: [zillastar](https://github.com/zillastar)
-
-Last Edited on: 12/11/2022
