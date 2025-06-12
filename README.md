@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://github.com/neiydarry28/neiydarry28/blob/main/A-generada.jpeg"/>
 
 <h2> / about me /</h2>
   
