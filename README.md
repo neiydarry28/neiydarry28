@@ -1,8 +1,9 @@
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<p align = center ><img src="https://github.com/neiydarry28/neiydarry28/blob/main/Banner.jpg"> </p>
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://github.com/neiydarry28/neiydarry28/blob/main/A-generada.jpeg"/>
+<img align="right" width="400" alt="Neiy Darry" src="https://github.com/neiydarry28/neiydarry28/blob/main/A-generada.jpeg"/>
+<img align="right" width="400" alt="Neiy Darry con Bill" src="https://github.com/neiydarry28/neiydarry28/blob/main/A1-generada.jpeg"/>
 
 <h2> / about me /</h2>
   
