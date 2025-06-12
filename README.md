@@ -1,10 +1,10 @@
 <p align = center ><img src="https://github.com/neiydarry28/neiydarry28/blob/main/Banner.jpg"> </p>
 
 <div>
-
+<img align="right" width="400" alt="Neiy Darry con Bill" src="https://github.com/neiydarry28/neiydarry28/blob/main/Neiy-Bill.jpg"/>
 <img align="right" width="400" alt="Neiy Darry" src="https://github.com/neiydarry28/neiydarry28/blob/main/A-generada.jpeg"/>
-<img align="right" width="400" alt="Neiy Darry con Bill" src="https://github.com/neiydarry28/neiydarry28/blob/main/A1-generada.jpeg"/>
 
+<br>
 <h2> / about me /</h2>
   
 - ⭐ currently working on **web-development**
