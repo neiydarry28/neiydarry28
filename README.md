@@ -22,11 +22,20 @@
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-   <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
+  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
   
 - <h4> Others </h4>
 
-  <img src = "https://github.com/neiydarry28/neiydarry28/blob/main/BUDGET%20APPROVED.jpg" alt = "expo" />
+  <img src = "https://github.com/neiydarry28/neiydarry28/blob/main/BUDGET%20APPROVED.jpg" alt = "expo"  align="left" />
+
+- <h4> Credly certifications </h4>
+
+  <a href="https://www.credly.com/users/neiy-briceno">Click here</a>
+
+ - <h4> Microsoft certifications </h4>
+
+  <a href="https://learn.microsoft.com/es-es/users/neiydarrybriceorodrguez-8441/transcript/73jl2synnpmkor5?tab=credentials-tab">Click here</a>
+  
  
   
 
