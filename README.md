@@ -4,7 +4,7 @@
 <img align="right" width="400" alt="Neiy Darry con Bill" src="https://github.com/neiydarry28/neiydarry28/blob/main/Neiy-Bill.jpg"/>
 <img align="right" width="400" alt="Neiy Darry" src="https://github.com/neiydarry28/neiydarry28/blob/main/A-generada.jpeg"/>
 
-<br><br>
+<p></p>
 <h2> / about me /</h2>
   
 - ⭐ My current job is Business Solutions Developer.
@@ -14,7 +14,7 @@
 <img align="right" width="400" alt="Neiy Darry con Bill" src="https://github.com/neiydarry28/neiydarry28/blob/main/A3-generada.jpeg"/>
 <img align="right" width="400" alt="Neiy Darry" src="https://github.com/neiydarry28/neiydarry28/blob/main/A2-generada.jpeg"/>
 
-<br><br>
+<p></p>
 <h2> / current skills / </h2>
   
 - <h4> Languages </h4>
@@ -29,19 +29,17 @@
 
   <a href="https://www.credly.com/users/neiy-briceno">Click here</a>
 
- - <h4> Microsoft certifications </h4>
+- <h4> Microsoft certifications </h4>
 
   <a href="https://learn.microsoft.com/es-es/users/neiydarrybriceorodrguez-8441/transcript/73jl2synnpmkor5?tab=credentials-tab">Click here</a>
   
-  - <h4> Others </h4>
+- <h4> Others </h4>
 
-  <img src = "https://github.com/neiydarry28/neiydarry28/blob/main/BUDGET%20APPROVED.jpg" alt = "expo"  align="left" />
+  <img src = "https://github.com/neiydarry28/neiydarry28/blob/main/BUDGET%20APPROVED.jpg" alt = "expo" />
   
  
   
-
-  
-  </br></br>
+  <p></p>
   
 <div align="right">
 <a href="https://www.linkedin.com/in/neiybriceno/">Image by Neiy Darry</a>
